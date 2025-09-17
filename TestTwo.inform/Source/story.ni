@@ -1,6 +1,5 @@
 "TestTwo" by Ava Morgan
 
-
 bank is a room. "You walk along the silty dirt. Legends say a great evil destroyed this ecosystem by devouring all of the fish, and the ground itself trembles as you approach, yet, water laps calmly at the riverbank."
 
 

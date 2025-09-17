@@ -1,0 +1,56 @@
+Debugging log of inform7
+inform7 was called as: /Applications/Inform.app/Contents/MacOS/ni -internal /Applications/Inform.app/Contents/Resources/Internal -external /Users/avamorgan/Library/Inform -project /Users/avamorgan/Desktop/GITHUB_BACKUP/test3.inform -format=ulx
+Reading further switches from file: <no file>
+Completed expert settings file
+Using Inform kit 'BasicInformKit' (priority 0).
+Using Inform kit 'EnglishLanguageKit' (priority 1).
+Using Inform kit 'WorldModelKit' (priority 2).
+Using Inform kit 'CommandParserKit' (priority 3).
+756 Preform nonterminals read from /Applications/Inform.app/Contents/Resources/Internal/Languages/English/Syntax.preform
+I've now read your source text, which is 10 words long.
+Included: core, naming, instance counting, interactive fiction, spatial model, backdrops, bibliographic data, chronology, devices, mapping, persons, player, regions, scenes, scoring, timed rules, times of day, actions, going, command, showme, multimedia, figures, sounds, glulx external files
+Excluded: 
+I've also read Basic Inform by Graham Nelson, which is 7691 words long.
+I've also read English Language by Graham Nelson, which is 2328 words long.
+I've also read Standard Rules by Graham Nelson, which is 32164 words long.
+
+
+-----------------------------------------------------
+Phase I ... Dividing source into compilation units
+-----------------------------------------------------
+
+
+
+-----------------------------------------------------
+Phase II ... Making built in infrastructure
+-----------------------------------------------------
+
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/BasicInformKit/kinds/Macros.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/BasicInformKit/kinds/Protocols.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/BasicInformKit/kinds/Core.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/BasicInformKit/kinds/Punctuation.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/BasicInformKit/kinds/Files.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/WorldModelKit/kinds/Actions.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/WorldModelKit/kinds/Times.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/WorldModelKit/kinds/Scenes.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/WorldModelKit/kinds/Figures.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/WorldModelKit/kinds/Sounds.neptune
+Loading kinds definitions from /Applications/Inform.app/Contents/Resources/Internal/Inter/CommandParserKit/kinds/Parsing.neptune
+
+
+-----------------------------------------------------
+Phase III ... Pre-pass through major nodes
+-----------------------------------------------------
+
+SENTENCE_NT'test' {unit: 3} {classified}
+
+Problem PM_NoSuchVerb issued from inform7/assertions-module/Chapter 2/Classifying Sentences.w, line 269
+
+  >--> In the sentence 'test' (source text, line 5), I can't find a verb that I
+    know how to deal with.
+
+.... MajorNodes__pre_pass() took 10cs
+Compile CPU time: 12 centiseconds
+Total of 3 files written as streams.
+Vacant escapes: %: ..CDE.GH..K.M.O.QR.TU...YZab..e..h.jklm.o.qr......yz0123456789
+Vacant escapes: $: .....F...J..........UVW.....................s.u..x.........789
