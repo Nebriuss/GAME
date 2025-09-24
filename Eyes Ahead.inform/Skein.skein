@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1002">
+<Skein rootNode="node-1146">
     <generator>Inform Mac Client (Inform version 1.82/6.41/10.1.2)</generator>
-    <item nodeId="node-1002">
-        <command xml:space="preserve">TestTwo</command>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">Eyes Ahead</command>
         <result xml:space="preserve">
 
 
@@ -25,134 +25,134 @@ Legends say a great evil destroyed this beautiful ecosystem long ago by devourin
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1066"></child>
-            <child nodeId="node-1028"></child>
-            <child nodeId="node-1041"></child>
-            <child nodeId="node-1023"></child>
-            <child nodeId="node-1040"></child>
-            <child nodeId="node-1043"></child>
-            <child nodeId="node-1064"></child>
-            <child nodeId="node-1020"></child>
-            <child nodeId="node-1016"></child>
-            <child nodeId="node-1012"></child>
-            <child nodeId="node-1007"></child>
-            <child nodeId="node-1003"></child>
+        <children><child nodeId="node-1199"></child>
+            <child nodeId="node-1190"></child>
+            <child nodeId="node-1188"></child>
+            <child nodeId="node-1183"></child>
+            <child nodeId="node-1176"></child>
+            <child nodeId="node-1173"></child>
+            <child nodeId="node-1171"></child>
+            <child nodeId="node-1168"></child>
+            <child nodeId="node-1164"></child>
+            <child nodeId="node-1156"></child>
+            <child nodeId="node-1151"></child>
+            <child nodeId="node-1147"></child>
         </children>
     </item>
-    <item nodeId="node-1003">
+    <item nodeId="node-1147">
         <command xml:space="preserve">x river</command>
         <result xml:space="preserve">The river has turned rough and angry and cannot be entered.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1005"></child>
-            <child nodeId="node-1004"></child>
+        <children><child nodeId="node-1149"></child>
+            <child nodeId="node-1148"></child>
         </children>
     </item>
-    <item nodeId="node-1004">
+    <item nodeId="node-1148">
         <command xml:space="preserve">x River</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1005">
+    <item nodeId="node-1149">
         <command xml:space="preserve">l river</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1006"></child>
+        <children><child nodeId="node-1150"></child>
         </children>
     </item>
-    <item nodeId="node-1006">
+    <item nodeId="node-1150">
         <command xml:space="preserve">x ground</command>
         <result xml:space="preserve">A long rope lays in the dusty dirt.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1007">
+    <item nodeId="node-1151">
         <command xml:space="preserve">x harpoon</command>
         <result xml:space="preserve">Rust grows around its edges. It's plunged deep into the center of the river, the remains of a fierce battle.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1009"></child>
-            <child nodeId="node-1008"></child>
+        <children><child nodeId="node-1153"></child>
+            <child nodeId="node-1152"></child>
         </children>
     </item>
-    <item nodeId="node-1008">
+    <item nodeId="node-1152">
         <command xml:space="preserve">x ground</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1009">
+    <item nodeId="node-1153">
         <command xml:space="preserve">x Harpoon</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1010"></child>
+        <children><child nodeId="node-1154"></child>
         </children>
     </item>
-    <item nodeId="node-1010">
+    <item nodeId="node-1154">
         <command xml:space="preserve">examine harpoon</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1011"></child>
+        <children><child nodeId="node-1155"></child>
         </children>
     </item>
-    <item nodeId="node-1011">
+    <item nodeId="node-1155">
         <command xml:space="preserve">look at harpoon</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1012">
+    <item nodeId="node-1156">
         <command xml:space="preserve">x ground</command>
         <result xml:space="preserve">A long rope lays in the dusty dirt.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1015"></child>
-            <child nodeId="node-1014"></child>
-            <child nodeId="node-1063"></child>
-            <child nodeId="node-1059"></child>
-            <child nodeId="node-1013"></child>
+        <children><child nodeId="node-1163"></child>
+            <child nodeId="node-1162"></child>
+            <child nodeId="node-1161"></child>
+            <child nodeId="node-1158"></child>
+            <child nodeId="node-1157"></child>
         </children>
     </item>
-    <item nodeId="node-1013">
+    <item nodeId="node-1157">
         <command xml:space="preserve">x rope</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1059">
+    <item nodeId="node-1158">
         <command xml:space="preserve">take</command>
         <result xml:space="preserve">What do you want to take?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1060"></child>
+        <children><child nodeId="node-1159"></child>
         </children>
     </item>
-    <item nodeId="node-1060">
+    <item nodeId="node-1159">
         <command xml:space="preserve">rope</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1061"></child>
+        <children><child nodeId="node-1160"></child>
         </children>
     </item>
-    <item nodeId="node-1061">
+    <item nodeId="node-1160">
         <command xml:space="preserve">proceed</command>
         <result xml:space="preserve">
 Open your eyes
@@ -160,21 +160,21 @@ Open your eyes
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1063">
+    <item nodeId="node-1161">
         <command xml:space="preserve">proceed</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1014">
+    <item nodeId="node-1162">
         <command xml:space="preserve">look at ground</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1015">
+    <item nodeId="node-1163">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">River
 You walk along the silty dirt. Legends say a great evil destroyed this ecosystem by devouring all of the fish, and the ground itself trembles as you approach, yet, water laps calmly at the riverbank.
@@ -186,206 +186,206 @@ You can also see rope here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1016">
+    <item nodeId="node-1164">
         <command xml:space="preserve">x</command>
         <result xml:space="preserve">(Harpoon)
 Rust grows around its edges. It's plunged deep into the center of the river, the remains of a fierce battle.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1017"></child>
+        <children><child nodeId="node-1165"></child>
         </children>
     </item>
-    <item nodeId="node-1017">
+    <item nodeId="node-1165">
         <command xml:space="preserve">x ground</command>
         <result xml:space="preserve">A long rope lays in the dusty dirt.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1018"></child>
+        <children><child nodeId="node-1166"></child>
         </children>
     </item>
-    <item nodeId="node-1018">
+    <item nodeId="node-1166">
         <command xml:space="preserve">take rope</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1019"></child>
+        <children><child nodeId="node-1167"></child>
         </children>
     </item>
-    <item nodeId="node-1019">
+    <item nodeId="node-1167">
         <command xml:space="preserve">take harpoon</command>
         <result xml:space="preserve">you lasso the harpoon with the rope
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1020">
+    <item nodeId="node-1168">
         <command xml:space="preserve">take rope</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1021"></child>
+        <children><child nodeId="node-1169"></child>
         </children>
     </item>
-    <item nodeId="node-1021">
+    <item nodeId="node-1169">
         <command xml:space="preserve">x ground</command>
         <result xml:space="preserve">A long rope lays in the dusty dirt.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1022"></child>
+        <children><child nodeId="node-1170"></child>
         </children>
     </item>
-    <item nodeId="node-1022">
+    <item nodeId="node-1170">
         <command xml:space="preserve">take rope</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1064">
+    <item nodeId="node-1171">
         <command xml:space="preserve">take</command>
         <result xml:space="preserve">(Harpoon)
 The harpoon is too far out in the river to reach
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1065"></child>
+        <children><child nodeId="node-1172"></child>
         </children>
     </item>
-    <item nodeId="node-1065">
+    <item nodeId="node-1172">
         <command xml:space="preserve">proceed</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1043">
+    <item nodeId="node-1173">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Your eyes
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1044"></child>
+        <children><child nodeId="node-1174"></child>
         </children>
     </item>
-    <item nodeId="node-1044">
+    <item nodeId="node-1174">
         <command xml:space="preserve">go south</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1045"></child>
+        <children><child nodeId="node-1175"></child>
         </children>
     </item>
-    <item nodeId="node-1045">
+    <item nodeId="node-1175">
         <command xml:space="preserve">proceed</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1040">
+    <item nodeId="node-1176">
         <command xml:space="preserve">proceed</command>
         <result xml:space="preserve">
 Open your eyes
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1052"></child>
+        <children><child nodeId="node-1177"></child>
         </children>
     </item>
-    <item nodeId="node-1052">
+    <item nodeId="node-1177">
         <command xml:space="preserve">x ground</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1053"></child>
+        <children><child nodeId="node-1178"></child>
         </children>
     </item>
-    <item nodeId="node-1053">
+    <item nodeId="node-1178">
         <command xml:space="preserve">see ground</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1054"></child>
+        <children><child nodeId="node-1179"></child>
         </children>
     </item>
-    <item nodeId="node-1054">
+    <item nodeId="node-1179">
         <command xml:space="preserve">ground</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1055"></child>
+        <children><child nodeId="node-1180"></child>
         </children>
     </item>
-    <item nodeId="node-1055">
+    <item nodeId="node-1180">
         <command xml:space="preserve">x</command>
         <result xml:space="preserve">What do you want to examine?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1056"></child>
+        <children><child nodeId="node-1181"></child>
         </children>
     </item>
-    <item nodeId="node-1056">
+    <item nodeId="node-1181">
         <command xml:space="preserve">ground</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1057"></child>
+        <children><child nodeId="node-1182"></child>
         </children>
     </item>
-    <item nodeId="node-1057">
+    <item nodeId="node-1182">
         <command xml:space="preserve">take rope</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1023">
+    <item nodeId="node-1183">
         <command xml:space="preserve">l river</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1024"></child>
+        <children><child nodeId="node-1184"></child>
         </children>
     </item>
-    <item nodeId="node-1024">
+    <item nodeId="node-1184">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">The river has turned rough and angry and cannot be entered.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1025"></child>
+        <children><child nodeId="node-1185"></child>
         </children>
     </item>
-    <item nodeId="node-1025">
+    <item nodeId="node-1185">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">The river has turned rough and angry and cannot be entered.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1026"></child>
+        <children><child nodeId="node-1186"></child>
         </children>
     </item>
-    <item nodeId="node-1026">
+    <item nodeId="node-1186">
         <command xml:space="preserve">x river</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1027"></child>
+        <children><child nodeId="node-1187"></child>
         </children>
     </item>
-    <item nodeId="node-1027">
+    <item nodeId="node-1187">
         <command xml:space="preserve">x</command>
         <result xml:space="preserve">(Harpoon)
 Rust grows around its edges. It's plunged deep into the center of the river, the remains of a fierce battle.
@@ -393,16 +393,16 @@ Rust grows around its edges. It's plunged deep into the center of the river, the
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1041">
+    <item nodeId="node-1188">
         <command xml:space="preserve">go</command>
         <result xml:space="preserve">You'll have to say which compass direction to go in.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1042"></child>
+        <children><child nodeId="node-1189"></child>
         </children>
     </item>
-    <item nodeId="node-1042">
+    <item nodeId="node-1189">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Forest
@@ -411,114 +411,114 @@ Lush green trees bust from the ground.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1028">
+    <item nodeId="node-1190">
         <command xml:space="preserve">examine ground</command>
         <result xml:space="preserve">A long rope lays in the dusty dirt.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1029"></child>
+        <children><child nodeId="node-1191"></child>
         </children>
     </item>
-    <item nodeId="node-1029">
+    <item nodeId="node-1191">
         <command xml:space="preserve">take rope</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1030"></child>
+        <children><child nodeId="node-1192"></child>
         </children>
     </item>
-    <item nodeId="node-1030">
+    <item nodeId="node-1192">
         <command xml:space="preserve">take harpoon</command>
         <result xml:space="preserve">you lasso the harpoon with the rope.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1031"></child>
+        <children><child nodeId="node-1193"></child>
         </children>
     </item>
-    <item nodeId="node-1031">
+    <item nodeId="node-1193">
         <command xml:space="preserve">examine riv3er</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1032"></child>
+        <children><child nodeId="node-1194"></child>
         </children>
     </item>
-    <item nodeId="node-1032">
+    <item nodeId="node-1194">
         <command xml:space="preserve">x river</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1033"></child>
+        <children><child nodeId="node-1195"></child>
         </children>
     </item>
-    <item nodeId="node-1033">
+    <item nodeId="node-1195">
         <command xml:space="preserve">see river</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1034"></child>
+        <children><child nodeId="node-1196"></child>
         </children>
     </item>
-    <item nodeId="node-1034">
+    <item nodeId="node-1196">
         <command xml:space="preserve">go to river</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1035"></child>
+        <children><child nodeId="node-1197"></child>
         </children>
     </item>
-    <item nodeId="node-1035">
+    <item nodeId="node-1197">
         <command xml:space="preserve">examine river</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1036"></child>
+        <children><child nodeId="node-1198"></child>
         </children>
     </item>
-    <item nodeId="node-1036">
+    <item nodeId="node-1198">
         <command xml:space="preserve">examine River</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1066">
+    <item nodeId="node-1199">
         <command xml:space="preserve">enter</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1067"></child>
+        <children><child nodeId="node-1200"></child>
         </children>
     </item>
-    <item nodeId="node-1067">
+    <item nodeId="node-1200">
         <command xml:space="preserve">enter s</command>
         <result xml:space="preserve">You must name something more substantial.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1068"></child>
+        <children><child nodeId="node-1201"></child>
         </children>
     </item>
-    <item nodeId="node-1068">
+    <item nodeId="node-1201">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Open your eyes
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1069"></child>
+        <children><child nodeId="node-1202"></child>
         </children>
     </item>
-    <item nodeId="node-1069">
+    <item nodeId="node-1202">
         <command xml:space="preserve">why</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
