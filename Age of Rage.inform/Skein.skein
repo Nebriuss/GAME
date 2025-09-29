@@ -1,0 +1,2111 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1842">
+    <generator>Inform Mac Client (Inform version 1.82/6.41/10.1.2)</generator>
+    <item nodeId="node-1842">
+        <command xml:space="preserve">Age of Rage</command>
+        <result xml:space="preserve">
+
+
+
+Age of Rage
+An Interactive Fiction by Ava Morgan
+Release 1 / Serial number 250929 / Inform 7 v10.1.2 / D
+
+Never, in your whole life, has the air tasted so stale and dead.
+
+Your body slowly acclimates to the scene. The cold, hardened ground holds you firm for a moment; both unfamiliar and hostile. This predicament- a dreadful, ironclad grip on your hammering heart- is one you've been taught to be wary of your entire life. Imprisonment in the name of corrupt glory- the kind the pursuit of wealth brings about.
+
+Thin blades of artificial light slice through the bars of your cage. Nothing feels real- you wish it wasn't.
+
+Almost all is silent. The unreliable ticking of a dying clock echoes through the room. There seems to be nothing here you can commit your faith to.
+
+You'll have to find your own way.
+
+A murky grayness stares back at you. If you focus hard enough, you can make out various shapes, boxes and tools littering the floor outside of the cage. Everything beyond is enveloped in darkness. To you, an escape would be more akin to a marathon- but, the only way is through.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2070"></child>
+            <child nodeId="node-2068"></child>
+            <child nodeId="node-2067"></child>
+            <child nodeId="node-2061"></child>
+            <child nodeId="node-2059"></child>
+            <child nodeId="node-2058"></child>
+            <child nodeId="node-2057"></child>
+            <child nodeId="node-2055"></child>
+            <child nodeId="node-2053"></child>
+            <child nodeId="node-2052"></child>
+            <child nodeId="node-2051"></child>
+            <child nodeId="node-2049"></child>
+            <child nodeId="node-2042"></child>
+            <child nodeId="node-2041"></child>
+            <child nodeId="node-2040"></child>
+            <child nodeId="node-2039"></child>
+            <child nodeId="node-2034"></child>
+            <child nodeId="node-2033"></child>
+            <child nodeId="node-2031"></child>
+            <child nodeId="node-2028"></child>
+            <child nodeId="node-2025"></child>
+            <child nodeId="node-2024"></child>
+            <child nodeId="node-1947"></child>
+            <child nodeId="node-1940"></child>
+            <child nodeId="node-1937"></child>
+            <child nodeId="node-1870"></child>
+            <child nodeId="node-1867"></child>
+            <child nodeId="node-1864"></child>
+            <child nodeId="node-1843"></child>
+        </children>
+    </item>
+    <item nodeId="node-1843">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1862"></child>
+            <child nodeId="node-1852"></child>
+            <child nodeId="node-1844"></child>
+        </children>
+    </item>
+    <item nodeId="node-1844">
+        <command xml:space="preserve">x selr</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1845"></child>
+        </children>
+    </item>
+    <item nodeId="node-1845">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for  someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1846"></child>
+        </children>
+    </item>
+    <item nodeId="node-1846">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1847"></child>
+        </children>
+    </item>
+    <item nodeId="node-1847">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1848"></child>
+        </children>
+    </item>
+    <item nodeId="node-1848">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for  someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1849"></child>
+        </children>
+    </item>
+    <item nodeId="node-1849">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for  someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1850"></child>
+        </children>
+    </item>
+    <item nodeId="node-1850">
+        <command xml:space="preserve">x loose bar</command>
+        <result xml:space="preserve"> You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1851"></child>
+        </children>
+    </item>
+    <item nodeId="node-1851">
+        <command xml:space="preserve">x bar</command>
+        <result xml:space="preserve">You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1852">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1853"></child>
+        </children>
+    </item>
+    <item nodeId="node-1853">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1854"></child>
+        </children>
+    </item>
+    <item nodeId="node-1854">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1858"></child>
+            <child nodeId="node-1855"></child>
+        </children>
+    </item>
+    <item nodeId="node-1855">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1856"></child>
+        </children>
+    </item>
+    <item nodeId="node-1856">
+        <command xml:space="preserve">open cage</command>
+        <result xml:space="preserve">That's already open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1857"></child>
+        </children>
+    </item>
+    <item nodeId="node-1857">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You would have to get out of the cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1858">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1859"></child>
+        </children>
+    </item>
+    <item nodeId="node-1859">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1860"></child>
+        </children>
+    </item>
+    <item nodeId="node-1860">
+        <command xml:space="preserve">cage</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1861"></child>
+        </children>
+    </item>
+    <item nodeId="node-1861">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1862">
+        <command xml:space="preserve">examine</command>
+        <result xml:space="preserve">(the cage)
+You see nothing special about the cage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1863"></child>
+        </children>
+    </item>
+    <item nodeId="node-1863">
+        <command xml:space="preserve">examine self</command>
+        <result xml:space="preserve">you are soft.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1864">
+        <command xml:space="preserve">x room</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1865"></child>
+        </children>
+    </item>
+    <item nodeId="node-1865">
+        <command xml:space="preserve">x awakening</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1866"></child>
+        </children>
+    </item>
+    <item nodeId="node-1866">
+        <command xml:space="preserve">x room</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1867">
+        <command xml:space="preserve">x player</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1868"></child>
+        </children>
+    </item>
+    <item nodeId="node-1868">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> you are light .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1869"></child>
+        </children>
+    </item>
+    <item nodeId="node-1869">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> you are soft .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1870">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Squinting in the darkness, you observe your small, pale wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1933"></child>
+            <child nodeId="node-1878"></child>
+            <child nodeId="node-1873"></child>
+            <child nodeId="node-1871"></child>
+        </children>
+    </item>
+    <item nodeId="node-1871">
+        <command xml:space="preserve">x surrounding</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1872"></child>
+        </children>
+    </item>
+    <item nodeId="node-1872">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">  You're more than this. But what part of you will be of use? Look closer. 
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1873">
+        <command xml:space="preserve">x ne</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1874"></child>
+        </children>
+    </item>
+    <item nodeId="node-1874">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1875"></child>
+        </children>
+    </item>
+    <item nodeId="node-1875">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1876"></child>
+        </children>
+    </item>
+    <item nodeId="node-1876">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your pelt is soft and fuzzy, though you cannot describe its color with the little light available. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1877"></child>
+        </children>
+    </item>
+    <item nodeId="node-1877">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> ...Your antlers are solid and sturdy, possibly useful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1878">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> You can't quite see them, but you know your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1929"></child>
+            <child nodeId="node-1879"></child>
+        </children>
+    </item>
+    <item nodeId="node-1879">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1928"></child>
+            <child nodeId="node-1882"></child>
+            <child nodeId="node-1880"></child>
+        </children>
+    </item>
+    <item nodeId="node-1880">
+        <command xml:space="preserve">x ne</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1881"></child>
+        </children>
+    </item>
+    <item nodeId="node-1881">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your pelt is soft and fuzzy, though you cannot describe its true color with the little light available. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1882">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your pelt is soft and fuzzy, though you cannot describe its true color with the little light available. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1883"></child>
+        </children>
+    </item>
+    <item nodeId="node-1883">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> ...Your antlers are solid and sturdy, possibly useful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1927"></child>
+            <child nodeId="node-1884"></child>
+        </children>
+    </item>
+    <item nodeId="node-1884">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Squinting in the darkness, you observe your small, pale wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1921"></child>
+            <child nodeId="node-1904"></child>
+            <child nodeId="node-1885"></child>
+        </children>
+    </item>
+    <item nodeId="node-1885">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1886"></child>
+        </children>
+    </item>
+    <item nodeId="node-1886">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1887"></child>
+        </children>
+    </item>
+    <item nodeId="node-1887">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your pelt is soft and fuzzy, though you cannot describe its color with the little light available. 
+In the corner, a glimmer catches your eye. A loose bar? 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1902"></child>
+            <child nodeId="node-1888"></child>
+        </children>
+    </item>
+    <item nodeId="node-1888">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1889"></child>
+        </children>
+    </item>
+    <item nodeId="node-1889">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1890"></child>
+        </children>
+    </item>
+    <item nodeId="node-1890">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> ...Your antlers are solid and sturdy, possibly useful. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1898"></child>
+            <child nodeId="node-1891"></child>
+        </children>
+    </item>
+    <item nodeId="node-1891">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1892"></child>
+        </children>
+    </item>
+    <item nodeId="node-1892">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1893"></child>
+        </children>
+    </item>
+    <item nodeId="node-1893">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your pelt is soft and fuzzy, though you cannot describe its color with the little light available. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1894"></child>
+        </children>
+    </item>
+    <item nodeId="node-1894">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1895"></child>
+        </children>
+    </item>
+    <item nodeId="node-1895">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1896"></child>
+        </children>
+    </item>
+    <item nodeId="node-1896">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1897"></child>
+        </children>
+    </item>
+    <item nodeId="node-1897">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> ...Your antlers are solid and sturdy, possibly useful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1898">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> You think back to a time before all of this, fearless. You were foolish then. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1899"></child>
+        </children>
+    </item>
+    <item nodeId="node-1899">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1900"></child>
+        </children>
+    </item>
+    <item nodeId="node-1900">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1901"></child>
+        </children>
+    </item>
+    <item nodeId="node-1901">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1902">
+        <command xml:space="preserve"> x me</command>
+        <result xml:space="preserve"> ...Your antlers are solid and sturdy, possibly useful.
+
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1903"></child>
+        </children>
+    </item>
+    <item nodeId="node-1903">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1904">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">You pace back and forth, contemplating.
+
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1905"></child>
+        </children>
+    </item>
+    <item nodeId="node-1905">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">You pace back and forth, contemplating.
+
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1906"></child>
+        </children>
+    </item>
+    <item nodeId="node-1906">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">You pace back and forth, contemplating.
+
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1907"></child>
+        </children>
+    </item>
+    <item nodeId="node-1907">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+.....
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1908"></child>
+        </children>
+    </item>
+    <item nodeId="node-1908">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> Isn't this getting old? 
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1909"></child>
+        </children>
+    </item>
+    <item nodeId="node-1909">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1910"></child>
+        </children>
+    </item>
+    <item nodeId="node-1910">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1911"></child>
+        </children>
+    </item>
+    <item nodeId="node-1911">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+.....
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1912"></child>
+        </children>
+    </item>
+    <item nodeId="node-1912">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> Isn't this getting old? 
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1913"></child>
+        </children>
+    </item>
+    <item nodeId="node-1913">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> Something clatters to the floor rooms ahead. 
+.....
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1914"></child>
+        </children>
+    </item>
+    <item nodeId="node-1914">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+..
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1915"></child>
+        </children>
+    </item>
+    <item nodeId="node-1915">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> Isn't this getting old? 
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1916"></child>
+        </children>
+    </item>
+    <item nodeId="node-1916">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1917"></child>
+        </children>
+    </item>
+    <item nodeId="node-1917">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> You're more than this. But what part of you will be of use? Look closer. 
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1918"></child>
+        </children>
+    </item>
+    <item nodeId="node-1918">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+..
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1919"></child>
+        </children>
+    </item>
+    <item nodeId="node-1919">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">You wonder what lies outside of this barren, belittiling cage.
+
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1920"></child>
+        </children>
+    </item>
+    <item nodeId="node-1920">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> You think back to a time before all of this, fearless. You were foolish then. 
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1921">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1922"></child>
+        </children>
+    </item>
+    <item nodeId="node-1922">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1923"></child>
+        </children>
+    </item>
+    <item nodeId="node-1923">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You wonder what lies outside of this barren, belittiling cage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1924"></child>
+        </children>
+    </item>
+    <item nodeId="node-1924">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+...Something glitters in the corner.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1925"></child>
+        </children>
+    </item>
+    <item nodeId="node-1925">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You think back to a time before all of this, fearless. You were foolish then. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1926"></child>
+        </children>
+    </item>
+    <item nodeId="node-1926">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You're more than this. But what part of you will be of use? Look closer. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1927">
+        <command xml:space="preserve">x loose bar</command>
+        <result xml:space="preserve">It's slightly askew and looks loose. Maybe a hard hit could break it?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1928">
+        <command xml:space="preserve">bite</command>
+        <result xml:space="preserve">You bite and knaw, but get nothing but a hard mouthfull of hard metal. Ouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1929">
+        <command xml:space="preserve"> x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1930"></child>
+        </children>
+    </item>
+    <item nodeId="node-1930">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your pelt is soft and fuzzy, though you cannot describe its color with the little light available. 
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1931"></child>
+        </children>
+    </item>
+    <item nodeId="node-1931">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> ...Your antlers are solid and sturdy, possibly useful.
+
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1932"></child>
+        </children>
+    </item>
+    <item nodeId="node-1932">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1933">
+        <command xml:space="preserve">x loose bar</command>
+        <result xml:space="preserve">You wonder what lies outside of this barren, belittiling cage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1934"></child>
+        </children>
+    </item>
+    <item nodeId="node-1934">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> one of the glimmering metal bars sits slightly askew. Maybe a hard hit could break it?  .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1935"></child>
+        </children>
+    </item>
+    <item nodeId="node-1935">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1936"></child>
+        </children>
+    </item>
+    <item nodeId="node-1936">
+        <command xml:space="preserve">x loose bar</command>
+        <result xml:space="preserve"> You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1937">
+        <command xml:space="preserve">x loose bar</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1938"></child>
+        </children>
+    </item>
+    <item nodeId="node-1938">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1939"></child>
+        </children>
+    </item>
+    <item nodeId="node-1939">
+        <command xml:space="preserve">x loose bar</command>
+        <result xml:space="preserve">It's slightly askew and looks loose. Maybe a hard hit could break it?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1940">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">Despite your unfortunate predicament, you know there must be a way out.
+
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1941"></child>
+        </children>
+    </item>
+    <item nodeId="node-1941">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">You pace back and forth, contemplating.
+
+..
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1942"></child>
+        </children>
+    </item>
+    <item nodeId="node-1942">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve">You wonder what lies outside of this barren, belittiling cage.
+
+.....
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1943"></child>
+        </children>
+    </item>
+    <item nodeId="node-1943">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+..
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1944"></child>
+        </children>
+    </item>
+    <item nodeId="node-1944">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> You think back to a time before all of this, fearless. You were foolish then. 
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1945"></child>
+        </children>
+    </item>
+    <item nodeId="node-1945">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> You're more than this. But what part of you will be of use? Look closer. 
+...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1946"></child>
+        </children>
+    </item>
+    <item nodeId="node-1946">
+        <command xml:space="preserve">x cage</command>
+        <result xml:space="preserve"> Something clatters to the floor rooms ahead. 
+.......
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1947">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2019"></child>
+            <child nodeId="node-1957"></child>
+            <child nodeId="node-1954"></child>
+            <child nodeId="node-1953"></child>
+            <child nodeId="node-1948"></child>
+        </children>
+    </item>
+    <item nodeId="node-1948">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1949"></child>
+        </children>
+    </item>
+    <item nodeId="node-1949">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1950"></child>
+        </children>
+    </item>
+    <item nodeId="node-1950">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1951"></child>
+        </children>
+    </item>
+    <item nodeId="node-1951">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1952"></child>
+        </children>
+    </item>
+    <item nodeId="node-1952">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1953">
+        <command xml:space="preserve">x outside</command>
+        <result xml:space="preserve">A murky grayness stares back at you. If you focus hard enough, you can make out various shapes, boxes and tools littering the floor outside of the cage. Everything beyond is enveloped in darkness. To you, an escape would be more akin to a marathon- but, the only way is through.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1954">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Squinting in the darkness, you observe your small, pale wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1955"></child>
+        </children>
+    </item>
+    <item nodeId="node-1955">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1956"></child>
+        </children>
+    </item>
+    <item nodeId="node-1956">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1957">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1958"></child>
+        </children>
+    </item>
+    <item nodeId="node-1958">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You wonder what lies outside of this barren, belittiling cage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1962"></child>
+            <child nodeId="node-1959"></child>
+        </children>
+    </item>
+    <item nodeId="node-1959">
+        <command xml:space="preserve">x yourself</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1960"></child>
+        </children>
+    </item>
+    <item nodeId="node-1960">
+        <command xml:space="preserve">x player</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1961"></child>
+        </children>
+    </item>
+    <item nodeId="node-1961">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1962">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2018"></child>
+            <child nodeId="node-1963"></child>
+        </children>
+    </item>
+    <item nodeId="node-1963">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You think back to a time before all of this, fearless. You were foolish then. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1964"></child>
+        </children>
+    </item>
+    <item nodeId="node-1964">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You're more than this. But what part of you will be of use? Look closer. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1967"></child>
+            <child nodeId="node-1965"></child>
+        </children>
+    </item>
+    <item nodeId="node-1965">
+        <command xml:space="preserve">x sel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1966"></child>
+        </children>
+    </item>
+    <item nodeId="node-1966">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size.
+testtt
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1967">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ Something clatters to the floor rooms ahead. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1968"></child>
+        </children>
+    </item>
+    <item nodeId="node-1968">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ Isn't this getting old? 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2016"></child>
+            <child nodeId="node-1969"></child>
+        </children>
+    </item>
+    <item nodeId="node-1969">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1978"></child>
+            <child nodeId="node-1970"></child>
+        </children>
+    </item>
+    <item nodeId="node-1970">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Squinting in the darkness, you observe your small, pale wings. 
+...Something glitters in the corner.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1971"></child>
+        </children>
+    </item>
+    <item nodeId="node-1971">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1972"></child>
+        </children>
+    </item>
+    <item nodeId="node-1972">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1973"></child>
+        </children>
+    </item>
+    <item nodeId="node-1973">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your pelt is soft and fuzzy, though you cannot describe its true color with the little light available. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1974"></child>
+        </children>
+    </item>
+    <item nodeId="node-1974">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> ...Your antlers are solid and sturdy, possibly useful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1975"></child>
+        </children>
+    </item>
+    <item nodeId="node-1975">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Squinting in the darkness, you observe your small, pale wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1976"></child>
+        </children>
+    </item>
+    <item nodeId="node-1976">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1977"></child>
+        </children>
+    </item>
+    <item nodeId="node-1977">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1978">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+Something glitters in the corner.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1979"></child>
+        </children>
+    </item>
+    <item nodeId="node-1979">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ Isn't this getting old?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1980"></child>
+        </children>
+    </item>
+    <item nodeId="node-1980">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1981"></child>
+        </children>
+    </item>
+    <item nodeId="node-1981">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1982"></child>
+        </children>
+    </item>
+    <item nodeId="node-1982">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You think back to a time before all of this, fearless. You were foolish then. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1983"></child>
+        </children>
+    </item>
+    <item nodeId="node-1983">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ Something clatters to the floor rooms ahead. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1984"></child>
+        </children>
+    </item>
+    <item nodeId="node-1984">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1985"></child>
+        </children>
+    </item>
+    <item nodeId="node-1985">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ Isn't this getting old?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1986"></child>
+        </children>
+    </item>
+    <item nodeId="node-1986">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1987"></child>
+        </children>
+    </item>
+    <item nodeId="node-1987">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You think back to a time before all of this, fearless. You were foolish then. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1988"></child>
+        </children>
+    </item>
+    <item nodeId="node-1988">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2007"></child>
+            <child nodeId="node-1989"></child>
+        </children>
+    </item>
+    <item nodeId="node-1989">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ Isn't this getting old?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1990"></child>
+        </children>
+    </item>
+    <item nodeId="node-1990">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1991"></child>
+        </children>
+    </item>
+    <item nodeId="node-1991">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1992"></child>
+        </children>
+    </item>
+    <item nodeId="node-1992">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1993"></child>
+        </children>
+    </item>
+    <item nodeId="node-1993">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1994"></child>
+        </children>
+    </item>
+    <item nodeId="node-1994">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1995"></child>
+        </children>
+    </item>
+    <item nodeId="node-1995">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You wonder what lies outside of this barren, belittiling cage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1996"></child>
+        </children>
+    </item>
+    <item nodeId="node-1996">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1997"></child>
+        </children>
+    </item>
+    <item nodeId="node-1997">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1998"></child>
+        </children>
+    </item>
+    <item nodeId="node-1998">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1999"></child>
+        </children>
+    </item>
+    <item nodeId="node-1999">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2000"></child>
+        </children>
+    </item>
+    <item nodeId="node-2000">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2001"></child>
+        </children>
+    </item>
+    <item nodeId="node-2001">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2002"></child>
+        </children>
+    </item>
+    <item nodeId="node-2002">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2003"></child>
+        </children>
+    </item>
+    <item nodeId="node-2003">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You gently sneeze, stirring up a clump of dust in the corner of the cage. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2004"></child>
+        </children>
+    </item>
+    <item nodeId="node-2004">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You gently sneeze, stirring up a clump of dust in the corner of the cage. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2005"></child>
+        </children>
+    </item>
+    <item nodeId="node-2005">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+  
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2006"></child>
+        </children>
+    </item>
+    <item nodeId="node-2006">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You wonder what lies outside of this barren, belittiling cage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2007">
+        <command xml:space="preserve">take loose bar</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2008"></child>
+        </children>
+    </item>
+    <item nodeId="node-2008">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ You gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2009"></child>
+        </children>
+    </item>
+    <item nodeId="node-2009">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Oh! you have small, white wings. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2010"></child>
+        </children>
+    </item>
+    <item nodeId="node-2010">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2011"></child>
+        </children>
+    </item>
+    <item nodeId="node-2011">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2012"></child>
+        </children>
+    </item>
+    <item nodeId="node-2012">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2013"></child>
+        </children>
+    </item>
+    <item nodeId="node-2013">
+        <command xml:space="preserve">x sel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2014"></child>
+        </children>
+    </item>
+    <item nodeId="node-2014">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2015"></child>
+        </children>
+    </item>
+    <item nodeId="node-2015">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2016">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2017"></child>
+        </children>
+    </item>
+    <item nodeId="node-2017">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2018">
+        <command xml:space="preserve">take loose bar</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2019">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A murky grayness stares back at you. If you focus hard enough, you can make out various shapes, boxes and tools littering the floor outside of the cage. Everything beyond is enveloped in darkness. To you, an escape would be more akin to a marathon- but, the only way is through.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2022"></child>
+            <child nodeId="node-2021"></child>
+            <child nodeId="node-2020"></child>
+        </children>
+    </item>
+    <item nodeId="node-2020">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve">you are soft.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2021">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+You pace back and forth, contemplating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2022">
+        <command xml:space="preserve">look at self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2023"></child>
+        </children>
+    </item>
+    <item nodeId="node-2023">
+        <command xml:space="preserve">x self</command>
+        <result xml:space="preserve"> Your antlers, though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2024">
+        <command xml:space="preserve">why</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2025">
+        <command xml:space="preserve">who</command>
+        <result xml:space="preserve">Well, you are you. Who else would you be?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2027"></child>
+            <child nodeId="node-2026"></child>
+        </children>
+    </item>
+    <item nodeId="node-2026">
+        <command xml:space="preserve">why</command>
+        <result xml:space="preserve">A question I wish I knew the answer to. Maybe we were bound by fate. You'll be free. You will.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2027">
+        <command xml:space="preserve">where</command>
+        <result xml:space="preserve">I've seen glimpses of what lies beyond, but nothing intricate enough to give you an answer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2028">
+        <command xml:space="preserve">wherre</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2029"></child>
+        </children>
+    </item>
+    <item nodeId="node-2029">
+        <command xml:space="preserve">where</command>
+        <result xml:space="preserve">I've forgotten at this point.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2030"></child>
+        </children>
+    </item>
+    <item nodeId="node-2030">
+        <command xml:space="preserve">why</command>
+        <result xml:space="preserve">A question I wish I knew the answer to. I asked the same in cycles of cynicism. It won't do you any good.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2031">
+        <command xml:space="preserve">where</command>
+        <result xml:space="preserve">I've seen glimpses of what lies beyond, but nothing intricate enough to give you an answer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2032"></child>
+        </children>
+    </item>
+    <item nodeId="node-2032">
+        <command xml:space="preserve">who</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2033">
+        <command xml:space="preserve">sleep</command>
+        <result xml:space="preserve">You curl up in the corner of the cage, but you can't sleep like this- not with your heart pounding; precious minutes slipping away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2034">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You would have to get out of the cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2038"></child>
+            <child nodeId="node-2035"></child>
+        </children>
+    </item>
+    <item nodeId="node-2035">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You would have to get out of the cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2036"></child>
+        </children>
+    </item>
+    <item nodeId="node-2036">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You would have to get out of the cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2037"></child>
+        </children>
+    </item>
+    <item nodeId="node-2037">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You would have to get out of the cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2038">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Awakening (in the cage)
+Never, in your whole life, has the air tasted so stale and dead.
+
+Your body slowly acclimates to the scene. The cold, hardened ground holds you firm for a moment; both unfamiliar and hostile. This predicament- a dreadful, ironclad grip on your hammering heart- is one you've been taught to be wary of your entire life. Imprisonment in the name of corrupt glory- the kind the pursuit of wealth brings about.
+
+Thin blades of artificial light slice through the bars of your cage. Nothing feels real- you wish it wasn't.
+
+Almost all is silent. The unreliable ticking of a dying clock echoes through the room. There seems to be nothing here you can commit your faith to- you'll have to find your own way.
+
+Who are you, anyways? Take a look at youtself.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2039">
+        <command xml:space="preserve">looking</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2040">
+        <command xml:space="preserve">look at self</command>
+        <result xml:space="preserve"> you are soft. .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2041">
+        <command xml:space="preserve">look at myself</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2042">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A murky grayness stares back at you. If you focus hard enough, you can make out various shapes, boxes and tools littering the floor outside of the cage. Everything beyond is enveloped in darkness. To you, an escape would be more akin to a marathon- but, the only way is through.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2048"></child>
+            <child nodeId="node-2043"></child>
+        </children>
+    </item>
+    <item nodeId="node-2043">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You would have to get out of the cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2044"></child>
+        </children>
+    </item>
+    <item nodeId="node-2044">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You would have to get out of the cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2045"></child>
+        </children>
+    </item>
+    <item nodeId="node-2045">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You would have to get out of the cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2046"></child>
+        </children>
+    </item>
+    <item nodeId="node-2046">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You would have to get out of the cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2047"></child>
+        </children>
+    </item>
+    <item nodeId="node-2047">
+        <command xml:space="preserve">t</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2048">
+        <command xml:space="preserve">look at self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2049">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Awakening (in the cage)
+Never, in your whole life, has the air tasted so stale and dead.
+
+Your body slowly acclimates to the scene. The cold, hardened ground holds you firm for a moment; both unfamiliar and hostile. This predicament- a dreadful, ironclad grip on your hammering heart- is one you've been taught to be wary of your entire life. Imprisonment in the name of corrupt glory- the kind the pursuit of wealth brings about.
+
+Thin blades of artificial light slice through the bars of your cage. Nothing feels real- you wish it wasn't.
+
+Almost all is silent. The unreliable ticking of a dying clock echoes through the room. There seems to be nothing here you can commit your faith to- you'll have to find your own way.
+
+Who are you, anyways? Take a look at yourself.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2050"></child>
+        </children>
+    </item>
+    <item nodeId="node-2050">
+        <command xml:space="preserve">look at self</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2051">
+        <command xml:space="preserve">headbutt loose bar</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2052">
+        <command xml:space="preserve">headbutt</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2053">
+        <command xml:space="preserve">go</command>
+        <result xml:space="preserve">You'll have to say which compass direction to go in.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2054"></child>
+        </children>
+    </item>
+    <item nodeId="node-2054">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You would have to get out of Cage first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2055">
+        <command xml:space="preserve">cry</command>
+        <result xml:space="preserve">Well, that won't do you much good. No one can hear you- i'm sorry.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2056"></child>
+        </children>
+    </item>
+    <item nodeId="node-2056">
+        <command xml:space="preserve">bite</command>
+        <result xml:space="preserve">You bite and knaw the bars, getting nothing but a mouthful of hard metal. Ouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2057">
+        <command xml:space="preserve">claw at the cage</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2058">
+        <command xml:space="preserve">claw</command>
+        <result xml:space="preserve">You claw at the bars of the cage, but with no luck.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2059">
+        <command xml:space="preserve">bite</command>
+        <result xml:space="preserve">You bite and knaw at the bars, getting nothing but a mouthful of hard metal. Ouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2060"></child>
+        </children>
+    </item>
+    <item nodeId="node-2060">
+        <command xml:space="preserve">claw</command>
+        <result xml:space="preserve">You claw at the bars of the cage, but with no luck.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2061">
+        <command xml:space="preserve">X me</command>
+        <result xml:space="preserve"> ...Your antlers are solid and sturdy, possibly useful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2062"></child>
+        </children>
+    </item>
+    <item nodeId="node-2062">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2063"></child>
+        </children>
+    </item>
+    <item nodeId="node-2063">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2064"></child>
+        </children>
+    </item>
+    <item nodeId="node-2064">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> The cage bars tower above you, the world all too large for someone your size. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2065"></child>
+        </children>
+    </item>
+    <item nodeId="node-2065">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve"> one of the glimmering metal bars sits slightly askew. Maybe a hard hit could break it?   
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2066"></child>
+        </children>
+    </item>
+    <item nodeId="node-2066">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve">   Oh! you have small, white wings.  and antlers. Though small, will go for a pretty penny in due time. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2067">
+        <command xml:space="preserve">LOOK</command>
+        <result xml:space="preserve">Awakening
+Never, in your whole life, has the air tasted so stale and dead.
+
+Your body slowly acclimates to the scene. The cold, hardened ground holds you firm for a moment; both unfamiliar and hostile. This predicament- a dreadful, ironclad grip on your hammering heart- is one you've been taught to be wary of your entire life. Imprisonment in the name of corrupt glory- the kind the pursuit of wealth brings about.
+
+Thin blades of artificial light slice through the bars of your cage. Nothing feels real- you wish it wasn't.
+
+Almost all is silent. The unreliable ticking of a dying clock echoes through the room. There seems to be nothing here you can commit your faith to- you'll have to find your own way.
+
+Who are you, anyways? Take a look at youtself.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2068">
+        <command xml:space="preserve">Instead of unlocking the cage:</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2069"></child>
+        </children>
+    </item>
+    <item nodeId="node-2069">
+        <command xml:space="preserve"> if player is not wearing antlers, say “The bars are iron-tough."</command>
+        <result xml:space="preserve">You seem to want to talk to someone, but I can't see whom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2070">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2071"></child>
+        </children>
+    </item>
+    <item nodeId="node-2071">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+ Despite your unfortunate predicament, you know there must be a way out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2072"></child>
+        </children>
+    </item>
+    <item nodeId="node-2072">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2073"></child>
+        </children>
+    </item>
+    <item nodeId="node-2073">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2074"></child>
+        </children>
+    </item>
+    <item nodeId="node-2074">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the cage)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
