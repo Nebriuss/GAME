@@ -1,7 +1,5 @@
 "Age of Rage" by Ava Morgan
 
-[SEE NOTES ON STICKY NOTE]
-
 include Multiple Sounds by Massimo Stella.  
 
 After printing the banner text:
