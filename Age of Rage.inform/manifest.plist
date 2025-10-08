@@ -5,12 +5,12 @@
         <key>Graphics</key>
         <dict>
             <key>4</key>
-            <string>Figures/2.png</string>
+            <string>Figures/gameimage.jpg</string>
         </dict>
         <key>Sounds</key>
         <dict>
             <key>3</key>
-            <string>Sounds/INTRO.aiff</string>
+            <string>Sounds/INTRO.ogg</string>
         </dict>
     </dict>
 </plist>

@@ -17,35 +17,35 @@
     </dict>
     <key>2</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>16</integer>
+        <key>Line</key><integer>18</integer>
         <key>Title</key><string>Section 1 - Understanding/Things/Rules</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>137</integer>
+        <key>Line</key><integer>148</integer>
         <key>Title</key><string>Section 2 - Rooms</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>199</integer>
+        <key>Line</key><integer>229</integer>
         <key>Title</key><string>Section 3 - Consolidated Actions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>240</integer>
+        <key>Line</key><integer>270</integer>
         <key>Title</key><string>Section 4 - Instead of Descriptions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>6</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>266</integer>
+        <key>Line</key><integer>296</integer>
         <key>Title</key><string>Section 5- Checking</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
@@ -1280,5 +1280,26 @@
         <key>Title</key><string>Section 9 - Debugging Inform -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>183</key><dict>
+        <key>Filename</key><string>/Users/avamorgan/Library/Inform/Extensions/Massimo Stella/Multiple Sounds.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>--</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>184</key><dict>
+        <key>Filename</key><string>/Users/avamorgan/Library/Inform/Extensions/Massimo Stella/Multiple Sounds.i7x</string>
+        <key>Line</key><integer>13</integer>
+        <key>Title</key><string>Section - IF6 Code</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>185</key><dict>
+        <key>Filename</key><string>/Users/avamorgan/Library/Inform/Extensions/Massimo Stella/Multiple Sounds.i7x</string>
+        <key>Line</key><integer>117</integer>
+        <key>Title</key><string>Section - Declaring Commands</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
     </dict>
 </dict></plist>

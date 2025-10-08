@@ -2,6 +2,8 @@
 
 [SEE NOTES ON STICKY NOTE]
 
+include Multiple Sounds by Massimo Stella.
+
 After printing the banner text:
 	say "[line break][first time]Never, in your whole life, has the air tasted so stale and dead.
 
@@ -15,22 +17,31 @@ Try LOOKING at yourself or the cage.[only][line break]".
 
 Section 1 - Understanding/Things/Rules
 
-Sound of introduction is the file "INTRO.aiff".
+Sound of introduction is the file "INTRO.ogg".
 
 Playing is an action applying to one thing. 
 
 Understand "play [something]" as playing.
 
 When play begins:
-	play the sound of introduction.
+	create the midground channel;
+	create the midground 1 channel;
+	create the midground 2 channel;
+	play the sound of introduction in midground;
 
-Understand "stand on [something]" or "climb on [something]" or "get on [something]" or "get onto" or "get into" or "get onto chair" or "climb chair" or "climb onto chair" or "get onto metal chair" as entering.
+Understand "stand on [something]" or "climb on [something]" or "get on [something]" or "get onto" or "get into" or "get onto chair" or "climb chair" or "climb onto chair" or "get onto metal chair" or "climb metal chair" or "get on chair" as entering.
 
 Instead of entering Dusty Vent while player is in Hall of Wonder, say "The vent is completely caved in, there's no way back.".
 Instead of going south through Dusty Vent when player is in Hall of Wonder: say "The vent is completely caved in, there's no way back.".
 
 Instead of entering Dusty Vent while player is in Ring of Fire, say "No, the vent is collapsed- That's a dead end!!".
 Instead of going south when player is in Ring of Fire: say "No, the vent is collapsed- That's a dead end!!".
+
+Instead of going west when player is in Ring of Fire: say "The only way forward is north.".
+Instead of going east when player is in Ring of Fire: say "The only way forward is north.".
+
+Instead of entering Dusty Vent while player is in An exit?, say "No, the vent is collapsed- That's a dead end!!".
+Instead of going south when player is in An exit?: say "No, the vent is collapsed- That's a dead end!!".
 
 Instead of entering Dusty Vent while player is in Bravest Who Proceed, say "You can't go back to the vent- it's collapsed!".
 Instead of going south when player is in Bravest Who Proceed: say "You can't go back to the vent- it's collapsed!".
@@ -62,7 +73,7 @@ Before opening the Dusty Vent: say " ".
 
 Instead of going north to Hall of Wonder when the Dusty Vent is locked: say "The only way through here is a vent far out of reach.".
 
-Box is a thing. it is inside Darkened Storage Room. "Various boxes, small and large, are scattered about on the ground.".
+Box is a thing. it is inside Darkened Storage Room. "Various boxes, small and large, are scattered about on the ground.". 
 
 Box can be taken. 
 
@@ -140,11 +151,14 @@ Awakening is a room. "[one of]The cage is dismal and dim, with nothig to note, u
 
 Darkened Storage Room is a room north of awakening. "[first time]You now have a slightly better view of the room, and get a full idea of just how large the room is compared to you. Stacks of paper tower imposingly above. There are three sections of the room with items scattered about to the north, east, and west respectively.[only]".
 
-Plaques & Papers is a room. it is north of Darkened Storage Room. "To the north are stacks of metal chairs and wooden slabs, golden engravings nailed into each of them. Papers with incomprhensible scrawls are scattered all over the floor. Photographs of animals are attached to some of the papers. Try analyzing.". 
+Plaques & Papers is a room. it is north of Darkened Storage Room. "To the north are stacks of metal chairs and wooden slabs, golden engravings nailed into each of them. Papers with incomprhensible scrawls are scattered all over the floor. Photographs of animals are attached to some of the papers.". 
 
+Before going to Plaques & Papers:
+	display figure 1;
+	
 Cases & Calamity is a room. it is east of Darkened Storage Room. The description is "To the east, empty glass display cases line the wall, one of which is smashed, possibly targeted in a robbery of some sort. You stop yourself just before stepping directly into a pile of glass shards. When was this place last cleaned?".
 
-Darkness is a room. it is west of Darkened Storage Room. "The room is completely dark, a low whirring of a fan its only sound.".
+Darkness is a room. it is west of Darkened Storage Room. "To the west is a completely dark room, a low whirring of a fan its only sound.".
 
 The Ring of Fire is north of Hall of Wonder. "What you’d failed to notice, hidden among his collection, was a hunter. 
 
@@ -156,13 +170,13 @@ With you now in his line of sight, he squats down, staring like he’d seen a un
 
 [line break]RUN! [italic type]Whenever they catch you, they will kill you. But first they must catch you, digger, listener, runner, prince with the swift warning.".
 
-An Exit? is a room north of The Ring of Fire. 
+An Exit? is a room. it is north of The Ring of Fire. 
 
 The Hunter is a person in An Exit?. "In a blink, the hunter sprints after you- [italic type]fast, make a decision! [roman type]Can you attack or kill him?".
 
 Report killing The Hunter:
 	if the second noun is antlers:
-		End the story saying "You kill the hunter and find an exit.";
+		End the story saying "The Hunter, unsteady, cannot react in time as you ram into him with your antlers. He falls backwards with a great crash, completely stunned by your quick line of attack. FInally, feeling triumphant, you walk up to the exit. But.. it's jammed. No matter what you do, the door doesn't budge. [bold type]FALSE ENDING.";
 		now The Hunter is nowhere instead;
 	Otherwise:			
 		say "You swing and miss!".
@@ -172,13 +186,29 @@ Every turn while the hunter has been in the location of the player for one turn:
 	if a random chance of 1 in 3 succeeds:
 		End the story saying "You run and dodge, but you're not fast enough. The hunter catches you before you can reach the exit.";
 	Otherwise:			
-		Say "[one of]You hunter continues to pursue you! [or] Your can hear the hunter's footsteps right behind yours. [or] You dash between between the taxidermies, the exit slowly getting closer.[cycling]".
+		Say "[one of]You hunter continues to pursue you! [or] Your can hear the hunter's footsteps right behind yours. [or] You dash between between the taxidermies, the exit slowly getting closer.[cycling]". 
 		
 
-Bravest Who Proceed is a room west of Hall of Wonder. "[first time]Without wasting another second, you dash to the left, avoiding the center of the room and manuevering through the taixdermied animals, using them as protection agaist detection. They shield you from their own fate.  [only]".
+Bravest Who Proceed is a room west of Hall of Wonder. "[first time]Without wasting another second, you dash to the left, avoiding the center of the room and manuevering through the taixdermied animals, using them as protection agaist detection. They shield you from their own fate.[line break] It's a good thing you went this way.. you can now see a hunter standing in the middle of the room, confused as to why the lights came on. [only]".
+
+
+Exiting Concealed is west of Bravest who proceed. "Using the westbound route, you continue.".
+
+The Note is a thing in Exiting Concealed. "As you continue towards the exit, you find a note on the floor. Hidden from The Hunter, you quickly read it. [italic type]To those who read this: You've made it far, and you don't know me. But, I can tell you this- You were never alone. I weakened the loose bar, another placed the chair. Someone was made to survive this- and it must be you. Every animal made it possible, and now I will tell you with finality- the exit at the end of the room is locked. Check the ground. A switch is there.".
+
+Instead of going west in exiting concealed:
+    say "You search the ground and find the switch. Pressing it, part of the wall shifts in the room. Sunlight creeps into the hole- you run as fast as you can,";
+   End the story saying "[bold type]TRUE ENDING.".
+	
+
+The Switch is a thing in Exiting Concealed. 
 
   
 Instead of going north when player is in Bravest Who Proceed: say "You've already committed, changing directions and risking being seen is too dangerous.".
+  
+Instead of going East when player is in Bravest Who Proceed: say "The only way forward now is west.".
+
+Instead of going south when player is in Bravest Who Proceed: say "The only way forward now is west.".
 
 Hall of Wonder is a room. "[first time]This new room is also dark, but you spy a red exit sign further north glowing softly. You make a run for it, the light getting closer...
 
@@ -244,7 +274,7 @@ Instead of examining player:
 
 Instead of examining, say ”[one of]You look around, desperate. [or]As you inspect further, something catches your eye in the corner. Take a look![line break][cycling]".
 
-Figure 1 is the file "2.png".
+Figure 1 is the file "gameimage.jpg".
 
 Does the player mean examining cage: it is very likely.
 	

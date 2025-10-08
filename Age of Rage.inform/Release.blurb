@@ -15,8 +15,8 @@ storyfile "/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Build/outpu
 ifiction "/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Metadata.iFiction" include
 cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/DefaultCover.jpg"
 picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/DefaultCover.jpg"
-picture 4 "/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.materials/Figures/2.png"
-sound 3 "/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.materials/Sounds/INTRO.aiff"
+picture 4 "/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.materials/Figures/gameimage.jpg"
+sound 3 "/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.materials/Sounds/INTRO.ogg"
 
 ! Placeholder variables
 
