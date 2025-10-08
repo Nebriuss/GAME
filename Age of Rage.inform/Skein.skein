@@ -5,9 +5,6 @@
     <item nodeId="node-12583">
         <command xml:space="preserve">Age of Rage</command>
         <result xml:space="preserve">
-
-
-
 Age of Rage
 An Interactive Fiction by Ava Morgan
 Release 1 / Serial number 251008 / Inform 7 v10.1.2 / D
@@ -26,7 +23,7 @@ Try LOOKING at yourself or the cage.
 
 
 Awakening (in the cage)
-The cage is dismal and dim, with nothig to note, unless...? Look closer.
+The cage is dismal and dim, with nothing to note, unless...? Look closer.
 
  
 
@@ -6206,8 +6203,10 @@ Taken.
     <item nodeId="node-13193">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
+
+
 Plaques &amp; Papers
-To the north are stacks of metal chairs and wooden slabs, golden engravings nailed into each of them. Papers with incomprhensible scrawls are scattered all over the floor. Photographs of animals are attached to some of the papers. Try analyzing.
+To the north are stacks of metal chairs and wooden slabs, golden engravings nailed into each of them. Papers with incomprehensible scrawls are scattered all over the floor. Photographs of animals are attached to some of the papers.
 
 If you squint, you can also see a vent on the wall. Could you somehow reach that?
 
@@ -7094,7 +7093,52 @@ Going back would be an option if it wasn't for the sudden bang behind you signal
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-13266"></child>
+            <child nodeId="node-14376"></child>
         </children>
+    </item>
+    <item nodeId="node-14376">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bravest Who Proceed
+Without wasting another second, you dash to the left, avoiding the center of the room and manuevering through the taixdermied animals, using them as protection agaist detection. They shield you from their own fate.
+
+It's a good thing you went this way.. you can now see a hunter standing in the middle of the room, confused as to why the lights came on. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14401"></child>
+        </children>
+    </item>
+    <item nodeId="node-14401">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You've already committed, changing directions and risking being seen is too dangerous.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14402"></child>
+        </children>
+    </item>
+    <item nodeId="node-14402">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">The only way forward now is west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14403"></child>
+        </children>
+    </item>
+    <item nodeId="node-14403">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Exiting Concealed
+Using the westbound route, you continue.
+
+As you continue towards the exit, you find a note on the floor. Hidden from The Hunter, you quickly read it. To those who read this: You've made it far, and you don't know me. But, I can tell you this- You were never alone. I weakened the loose bar, another placed the chair. Someone was made to survive this- and it must be you. Every animal made it possible, and now I will tell you with finality- the exit at the end of the room is locked. Check the ground. A switch is there.
+
+You can also see a Switch here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
     </item>
     <item nodeId="node-13266">
         <command xml:space="preserve">n</command>
@@ -7133,11 +7177,12 @@ Hall of Wonder
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Exit ?
-In a blink, the hunter sprints after you- fast, make a decision! Can you attack or kill him?
+In a blink, the hunter sprints after you- fast, make a decision! Can you kill him?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-13276"></child>
+            <child nodeId="node-14338"></child>
             <child nodeId="node-13273"></child>
             <child nodeId="node-13272"></child>
             <child nodeId="node-13269"></child>
@@ -7214,6 +7259,144 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
         <result xml:space="preserve">
 
     *** You kill the hunter and find an exit. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-14338">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+You hunter continues to pursue you! 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14339"></child>
+        </children>
+    </item>
+    <item nodeId="node-14339">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+ Your can hear the hunter's footsteps right behind yours. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14340"></child>
+        </children>
+    </item>
+    <item nodeId="node-14340">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+ You dash between between the taxidermies, the exit slowly getting closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14361"></child>
+        </children>
+    </item>
+    <item nodeId="node-14361">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+You hunter continues to pursue you! 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14362"></child>
+        </children>
+    </item>
+    <item nodeId="node-14362">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+ Your can hear the hunter's footsteps right behind yours. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14363"></child>
+        </children>
+    </item>
+    <item nodeId="node-14363">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+ You dash between between the taxidermies, the exit slowly getting closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14364"></child>
+        </children>
+    </item>
+    <item nodeId="node-14364">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+You hunter continues to pursue you! 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14365"></child>
+        </children>
+    </item>
+    <item nodeId="node-14365">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+ Your can hear the hunter's footsteps right behind yours. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14366"></child>
+        </children>
+    </item>
+    <item nodeId="node-14366">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+ You dash between between the taxidermies, the exit slowly getting closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14367"></child>
+        </children>
+    </item>
+    <item nodeId="node-14367">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+You hunter continues to pursue you! 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14368"></child>
+        </children>
+    </item>
+    <item nodeId="node-14368">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+ Your can hear the hunter's footsteps right behind yours. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14369"></child>
+        </children>
+    </item>
+    <item nodeId="node-14369">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+ You dash between between the taxidermies, the exit slowly getting closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14370"></child>
+        </children>
+    </item>
+    <item nodeId="node-14370">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+
+
+    *** You run and dodge, but you're not fast enough. The hunter catches you before you can reach the exit. BAD ENDING ***
 
 
 
@@ -8189,8 +8372,10 @@ The room is completely dark, a low whirring of a fan its only sound
     <item nodeId="node-13353">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
+
+
 Plaques &amp; Papers
-To the north are stacks of metal chairs and wooden slabs, golden engravings nailed into each of them. Papers with incomprhensible scrawls are scattered all over the floor. Photographs of animals are attached to some of the papers. Try analyzing.
+To the north are stacks of metal chairs and wooden slabs, golden engravings nailed into each of them. Papers with incomprehensible scrawls are scattered all over the floor. Photographs of animals are attached to some of the papers.
 
 If you squint, you can also see a vent on the wall. Could you somehow reach that?
 
@@ -8328,6 +8513,7 @@ Various boxes, small and large, are scattered about on the ground.
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-13377"></child>
             <child nodeId="node-13366"></child>
+            <child nodeId="node-14407"></child>
             <child nodeId="node-13362"></child>
         </children>
     </item>
@@ -8366,6 +8552,293 @@ check
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-14407">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Box)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14408"></child>
+        </children>
+    </item>
+    <item nodeId="node-14408">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+
+
+Plaques &amp; Papers
+One chair stack is tilting so far that it could very well pass as an off-brand Leaning Tower of Pisa.
+
+ 
+
+A single metal chair has fallen from the stack and is on the floor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14409"></child>
+        </children>
+    </item>
+    <item nodeId="node-14409">
+        <command xml:space="preserve">climb into vent</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14410"></child>
+        </children>
+    </item>
+    <item nodeId="node-14410">
+        <command xml:space="preserve">enter vent</command>
+        <result xml:space="preserve">The vent sits frustratingly out of reach.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14411"></child>
+        </children>
+    </item>
+    <item nodeId="node-14411">
+        <command xml:space="preserve">climb chair</command>
+        <result xml:space="preserve">You use the box as a stool to clamber onto the chair. The vent is now in reach.
+
+Plaques &amp; Papers (on Metal chair)
+One chair stack is tilting so far that it could very well pass as an off-brand Leaning Tower of Pisa.
+
+ 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14412"></child>
+        </children>
+    </item>
+    <item nodeId="node-14412">
+        <command xml:space="preserve">enter vent</command>
+        <result xml:space="preserve">You squeeze into the dusty vent, tip-toeing forward. At the end is an opening, and you carefully hop out.
+
+Hall of Wonder
+This new room is also dark, but you spy a red exit sign further north glowing softly. You make a run for it, the light getting closer...
+
+Until you hear a faint clicking sound. Blinding and bold, a beam of light strikes you from above, and then, like a twisted domino effect, each section of the room slowly comes to life. Its enormous, the exit sign's glow now washed away by the curious sights around you.
+
+Plants and flowers spiral up the walls of the room, inspired by the outside world. Tapestries resembling a perfect blue sky hang from the ceiling. A lion gazes into the distance, surveying its kingdom.
+
+…A hawk swoops down, talons searching for prey. A mighty moose stamps the ground, a warning to those in its way. But they are all dead, so very dead.
+
+Going back would be an option if it wasn't for the sudden bang behind you signaling that the dusty vent had collapsed inwards. Going North seems like your best option, but there's a more discreet route westbound of the room.
+
+ 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14413"></child>
+        </children>
+    </item>
+    <item nodeId="node-14413">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bravest Who Proceed
+Without wasting another second, you dash to the left, avoiding the center of the room and manuevering through the taixdermied animals, using them as protection agaist detection. They shield you from their own fate.
+
+It's a good thing you went this way.. you can now see a hunter standing in the middle of the room, confused as to why the lights came on. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14414"></child>
+        </children>
+    </item>
+    <item nodeId="node-14414">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Exiting Concealed
+Using the westbound route, you continue.
+
+As you continue towards the exit, you find a note on the floor. Hidden from The Hunter, you quickly read it. To those who read this: You've made it far, and you don't know me. But, I can tell you this- You were never alone. I weakened the loose bar, another placed the chair. Someone was made to survive this- and it must be you. Every animal made it possible, and now I will tell you with finality- the exit at the end of the room is locked. Check the ground. A switch is there.
+
+ 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14437"></child>
+        </children>
+    </item>
+    <item nodeId="node-14437">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14450"></child>
+        </children>
+    </item>
+    <item nodeId="node-14450">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Exiting Concealed
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14451"></child>
+        </children>
+    </item>
+    <item nodeId="node-14451">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Bravest Who Proceed
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14452"></child>
+        </children>
+    </item>
+    <item nodeId="node-14452">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Hall of Wonder
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14453"></child>
+        </children>
+    </item>
+    <item nodeId="node-14453">
+        <command xml:space="preserve">redo</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14454"></child>
+        </children>
+    </item>
+    <item nodeId="node-14454">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Ring of Fire
+What you'd failed to notice, hidden among his collection, was a hunter.
+
+He's in his pajamas (must be nice), grasping a bottle of alcohol- and, glancing at you once, twice, he downs the rest of it and tosses it.
+
+With you now in his line of sight, he squats down, staring like he'd seen a unicorn. He shakily raises his finger, the whole world stopping for a moment before he shouts,
+
+
+"RABBIT!!!!!"
+
+
+RUN! Whenever they catch you, they will kill you. But first they must catch you, digger, listener, runner, prince with the swift warning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14455"></child>
+        </children>
+    </item>
+    <item nodeId="node-14455">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Exit ?
+In a blink, the hunter sprints after you- fast, make a decision! Can you kill him?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14456"></child>
+        </children>
+    </item>
+    <item nodeId="node-14456">
+        <command xml:space="preserve">kill the hunter with antlers</command>
+        <result xml:space="preserve">The Hunter, unsteady, cannot react in time as you ram into him with your antlers. He falls backwards with a great crash, completely stunned by your quick line of attack. FInally, feeling triumphant, you walk up to the exit. But.. it's jammed. No matter what you do, the door doesn't budge.
+
+
+
+    *** FALSE ENDING. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14476"></child>
+        </children>
+    </item>
+    <item nodeId="node-14476">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Exit ?
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14477"></child>
+        </children>
+    </item>
+    <item nodeId="node-14477">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Ring of Fire
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14478"></child>
+        </children>
+    </item>
+    <item nodeId="node-14478">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Hall of Wonder
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14479"></child>
+        </children>
+    </item>
+    <item nodeId="node-14479">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bravest Who Proceed
+Without wasting another second, you dash to the left, avoiding the center of the room and manuevering through the taixdermied animals, using them as protection agaist detection. They shield you from their own fate.
+
+It's a good thing you went this way.. you can now see a hunter standing in the middle of the room, confused as to why the lights came on. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14480"></child>
+        </children>
+    </item>
+    <item nodeId="node-14480">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Exiting Concealed
+Using the westbound route, you continue.
+
+As you continue towards the exit, you find a note on the floor. Hidden from The Hunter, you quickly read it. To those who read this: You've made it far, and you don't know me. But, I can tell you this- You were never alone. I weakened the loose bar, another placed the chair. Someone was made to survive this- and it must be you. Every animal made it possible, and now I will tell you with finality- the exit at the end of the room is locked. Check the ground. A switch is there.
+
+ 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14481"></child>
+        </children>
+    </item>
+    <item nodeId="node-14481">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14532"></child>
+        </children>
+    </item>
+    <item nodeId="node-14532">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">You search the ground and find the switch. Pressing it, part of the wall shifts in the room. Sunlight creeps into the hole- you look back once more, promising to warn the rest of the animal kingdom of The Hunter. You run as fast as you can, escaping the awful place for good.
+
+
+
+    *** TRUE ENDING. ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
     <item nodeId="node-13366">
@@ -10168,6 +10641,8 @@ Various boxes, small and large, are scattered about on the ground.
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-13685"></child>
             <child nodeId="node-13537"></child>
+            <child nodeId="node-14320"></child>
+            <child nodeId="node-14307"></child>
             <child nodeId="node-13658"></child>
             <child nodeId="node-13652"></child>
         </children>
@@ -10220,16 +10695,87 @@ A single metal chair has fallen from the stack and is on the floor.
         <commentary xml:space="preserve"></commentary>
         <children><child nodeId="node-13723"></child>
             <child nodeId="node-13660"></child>
+            <child nodeId="node-14312"></child>
         </children>
     </item>
-    <item nodeId="node-13660">
-        <command xml:space="preserve">climb chair</command>
-        <result xml:space="preserve">You use the box as a stool to clamber onto the chair. The vent is now in reach.
+    <item nodeId="node-14312">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The only way through here is a vent far out of reach.
 
-Plaques &amp; Papers (on Metal chair)
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14313"></child>
+        </children>
+    </item>
+    <item nodeId="node-14313">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Darkened Storage Room
+A heavy, constricting atmosphere surrounds you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14314"></child>
+        </children>
+    </item>
+    <item nodeId="node-14314">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Darkness
+To the west is a completely dark room, a low whirring of a fan its only sound.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14315"></child>
+        </children>
+    </item>
+    <item nodeId="node-14315">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Darkened Storage Room
+you feel uneasy and exposed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14316"></child>
+        </children>
+    </item>
+    <item nodeId="node-14316">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14317"></child>
+        </children>
+    </item>
+    <item nodeId="node-14317">
+        <command xml:space="preserve">a</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14318"></child>
+        </children>
+    </item>
+    <item nodeId="node-14318">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+
+
+Plaques &amp; Papers
 One chair stack is tilting so far that it could very well pass as an off-brand Leaning Tower of Pisa.
 
  
+
+A single metal chair has fallen from the stack and is on the floor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-13660">
+        <command xml:space="preserve">climb chair</command>
+        <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -10325,20 +10871,7 @@ RUN! Whenever they catch you, they will kill you. But first they must catch you,
     </item>
     <item nodeId="node-13661">
         <command xml:space="preserve">enter vent</command>
-        <result xml:space="preserve">You squeeze into the dusty vent, tip-toeing forward. At the end is an opening, and you carefully hop out.
-
-Hall of Wonder
-This new room is also dark, but you spy a red exit sign further north glowing softly. You make a run for it, the light getting closer...
-
-Until you hear a faint clicking sound. Blinding and bold, a beam of light strikes you from above, and then, like a twisted domino effect, each section of the room slowly comes to life. Its enormous, the exit sign's glow now washed away by the curious sights around you.
-
-Plants and flowers spiral up the walls of the room, inspired by the outside world. Tapestries resembling a perfect blue sky hang from the ceiling. A lion gazes into the distance, surveying its kingdom.
-
-…A hawk swoops down, talons searching for prey. A mighty moose stamps the ground, a warning to those in its way. But they are all dead, so very dead.
-
-Going back would be an option if it wasn't for the sudden bang behind you signaling that the dusty vent had collapsed inwards. Going North seems like your best option, but there's a more discreet route westbound of the room.
-
- 
+        <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -10357,7 +10890,7 @@ Without wasting another second, you dash to the left, avoiding the center of the
     </item>
     <item nodeId="node-13662">
         <command xml:space="preserve">s</command>
-        <result xml:space="preserve">The vent is completely caved in, there's no way back.
+        <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -10417,6 +10950,167 @@ In a blink, the hunter sprints after you- fast, make a decision! Can you attack 
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-14307">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14308"></child>
+        </children>
+    </item>
+    <item nodeId="node-14308">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-14320">
+        <command xml:space="preserve">destroy loose bar with antlers</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14321"></child>
+        </children>
+    </item>
+    <item nodeId="node-14321">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Box)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14322"></child>
+        </children>
+    </item>
+    <item nodeId="node-14322">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+
+
+Plaques &amp; Papers
+To the north are stacks of metal chairs and wooden slabs, golden engravings nailed into each of them. Papers with incomprhensible scrawls are scattered all over the floor. Photographs of animals are attached to some of the papers.
+
+If you squint, you can also see a vent on the wall. Could you somehow reach that?
+
+A single metal chair has fallen from the stack and is on the floor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14323"></child>
+        </children>
+    </item>
+    <item nodeId="node-14323">
+        <command xml:space="preserve">climb chair</command>
+        <result xml:space="preserve">You use the box as a stool to clamber onto the chair. The vent is now in reach.
+
+Plaques &amp; Papers (on Metal chair)
+One chair stack is tilting so far that it could very well pass as an off-brand Leaning Tower of Pisa.
+
+ 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14324"></child>
+        </children>
+    </item>
+    <item nodeId="node-14324">
+        <command xml:space="preserve">enter vent</command>
+        <result xml:space="preserve">You squeeze into the dusty vent, tip-toeing forward. At the end is an opening, and you carefully hop out.
+
+Hall of Wonder
+This new room is also dark, but you spy a red exit sign further north glowing softly. You make a run for it, the light getting closer...
+
+Until you hear a faint clicking sound. Blinding and bold, a beam of light strikes you from above, and then, like a twisted domino effect, each section of the room slowly comes to life. Its enormous, the exit sign's glow now washed away by the curious sights around you.
+
+Plants and flowers spiral up the walls of the room, inspired by the outside world. Tapestries resembling a perfect blue sky hang from the ceiling. A lion gazes into the distance, surveying its kingdom.
+
+…A hawk swoops down, talons searching for prey. A mighty moose stamps the ground, a warning to those in its way. But they are all dead, so very dead.
+
+Going back would be an option if it wasn't for the sudden bang behind you signaling that the dusty vent had collapsed inwards. Going North seems like your best option, but there's a more discreet route westbound of the room.
+
+ 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14325"></child>
+        </children>
+    </item>
+    <item nodeId="node-14325">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Ring of Fire
+What you'd failed to notice, hidden among his collection, was a hunter.
+
+He's in his pajamas (must be nice), grasping a bottle of alcohol- and, glancing at you once, twice, he downs the rest of it and tosses it.
+
+With you now in his line of sight, he squats down, staring like he'd seen a unicorn. He shakily raises his finger, the whole world stopping for a moment before he shouts,
+
+
+"RABBIT!!!!!"
+
+
+RUN! Whenever they catch you, they will kill you. But first they must catch you, digger, listener, runner, prince with the swift warning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14326"></child>
+        </children>
+    </item>
+    <item nodeId="node-14326">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">No, the vent is collapsed- That's a dead end!!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14327"></child>
+        </children>
+    </item>
+    <item nodeId="node-14327">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">The only way forward is north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14328"></child>
+        </children>
+    </item>
+    <item nodeId="node-14328">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">The only way forward is north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14329"></child>
+        </children>
+    </item>
+    <item nodeId="node-14329">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Exit ?
+In a blink, the hunter sprints after you- fast, make a decision! Can you attack or kill him?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-14330"></child>
+        </children>
+    </item>
+    <item nodeId="node-14330">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+
+
+    *** You run and dodge, but you're not fast enough. The hunter catches you before you can reach the exit. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
     <item nodeId="node-13537">

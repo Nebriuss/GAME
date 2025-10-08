@@ -17,35 +17,35 @@
     </dict>
     <key>2</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>18</integer>
+        <key>Line</key><integer>27</integer>
         <key>Title</key><string>Section 1 - Understanding/Things/Rules</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>148</integer>
+        <key>Line</key><integer>157</integer>
         <key>Title</key><string>Section 2 - Rooms</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>229</integer>
+        <key>Line</key><integer>240</integer>
         <key>Title</key><string>Section 3 - Consolidated Actions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>270</integer>
+        <key>Line</key><integer>281</integer>
         <key>Title</key><string>Section 4 - Instead of Descriptions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>6</key><dict>
         <key>Filename</key><string>/Users/avamorgan/Desktop/GITHUB_BACKUP/Age of Rage.inform/Source/story.ni</string>
-        <key>Line</key><integer>296</integer>
+        <key>Line</key><integer>307</integer>
         <key>Title</key><string>Section 5- Checking</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
@@ -1299,6 +1299,97 @@
         <key>Filename</key><string>/Users/avamorgan/Library/Inform/Extensions/Massimo Stella/Multiple Sounds.i7x</string>
         <key>Line</key><integer>117</integer>
         <key>Title</key><string>Section - Declaring Commands</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>186</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>--</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>187</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>11</integer>
+        <key>Title</key><string>Chapter - Specifying styles</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>188</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>26</integer>
+        <key>Title</key><string>Section - The Table of User Styles definition</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>189</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>36</integer>
+        <key>Title</key><string>Chapter - Sorting the Table of User Styles</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>190</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>80</integer>
+        <key>Title</key><string>Chapter - Setting the styles -</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>191</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>188</integer>
+        <key>Title</key><string>Chapter - Additional style phrases</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>192</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>--</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>193</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
+        <key>Line</key><integer>9</integer>
+        <key>Title</key><string>Section - Clearing the screen</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>194</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
+        <key>Line</key><integer>22</integer>
+        <key>Title</key><string>Section - Waiting for key-presses, quitting suddenly</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>195</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
+        <key>Line</key><integer>87</integer>
+        <key>Title</key><string>Section - Showing the current quotation</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>196</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
+        <key>Line</key><integer>94</integer>
+        <key>Title</key><string>Section - Centering text on-screen</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>197</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
+        <key>Line</key><integer>148</integer>
+        <key>Title</key><string>Section - Customizing the status line</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>198</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
+        <key>Line</key><integer>215</integer>
+        <key>Title</key><string>Section - Color effects</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>

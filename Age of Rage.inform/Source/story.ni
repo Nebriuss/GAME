@@ -2,7 +2,7 @@
 
 [SEE NOTES ON STICKY NOTE]
 
-include Multiple Sounds by Massimo Stella.
+include Multiple Sounds by Massimo Stella.  
 
 After printing the banner text:
 	say "[line break][first time]Never, in your whole life, has the air tasted so stale and dead.
@@ -14,6 +14,15 @@ Thin blades of artificial light slice through the bars of your cage. Nothing fee
 Almost all is silent. The unreliable ticking of a dying clock echoes through the room. There seems to be nothing here you can commit your faith to. 
 
 Try LOOKING at yourself or the cage.[only][line break]".
+
+Include Glulx Text Effects by Emily Short.
+Include Basic Screen Effects by Emily Short.
+ 
+When play begins:
+		say "[italic type]The last thing you remember was your lush world flashing before your eyes.. how quickly times can change.";
+		center "Press SPACE to begin.";
+		wait for the SPACE key;
+		resume the story.
 
 Section 1 - Understanding/Things/Rules
 
@@ -147,14 +156,14 @@ the cage is a enterable, lockable, locked container.
 
 Section 2 - Rooms
 
-Awakening is a room. "[one of]The cage is dismal and dim, with nothig to note, unless...? Look closer.[or]You inspect the cage floor and gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable.[or]As you inspect further, something catches your eye in the corner. Take a look! [cycling]".
+Awakening is a room. "[one of]The cage is dismal and dim, with nothing to note, unless...? Look closer.[or]You inspect the cage floor and gently sneeze, stirring up a clump of dust in the corner of the cage. It slips through the bars effortlessly. Unbelievable.[or]As you inspect further, something catches your eye in the corner. Take a look! [cycling]".
 
-Darkened Storage Room is a room north of awakening. "[first time]You now have a slightly better view of the room, and get a full idea of just how large the room is compared to you. Stacks of paper tower imposingly above. There are three sections of the room with items scattered about to the north, east, and west respectively.[only]".
+Darkened Storage Room is a room north of awakening. "You now have a slightly better view of the room, and get a full idea of just how large the room is compared to you. Stacks of paper tower imposingly above. There are three sections of the room with items scattered about to the north, east, and west respectively.".
 
-Plaques & Papers is a room. it is north of Darkened Storage Room. "To the north are stacks of metal chairs and wooden slabs, golden engravings nailed into each of them. Papers with incomprhensible scrawls are scattered all over the floor. Photographs of animals are attached to some of the papers.". 
+Plaques & Papers is a room. it is north of Darkened Storage Room. "To the north are stacks of metal chairs and wooden slabs, golden engravings nailed into each of them. Papers with incomprehensible scrawls are scattered all over the floor. Photographs of animals are attached to some of the papers.". 
 
 Before going to Plaques & Papers:
-	display figure 1;
+	display figure 1.	
 	
 Cases & Calamity is a room. it is east of Darkened Storage Room. The description is "To the east, empty glass display cases line the wall, one of which is smashed, possibly targeted in a robbery of some sort. You stop yourself just before stepping directly into a pile of glass shards. When was this place last cleaned?".
 
@@ -172,38 +181,40 @@ With you now in his line of sight, he squats down, staring like he’d seen a un
 
 An Exit? is a room. it is north of The Ring of Fire. 
 
-The Hunter is a person in An Exit?. "In a blink, the hunter sprints after you- [italic type]fast, make a decision! [roman type]Can you attack or kill him?".
+The Hunter is a person in An Exit?. "In a blink, the hunter sprints after you- [italic type]fast, make a decision! [roman type]Can you kill him?".
 
 Report killing The Hunter:
 	if the second noun is antlers:
-		End the story saying "The Hunter, unsteady, cannot react in time as you ram into him with your antlers. He falls backwards with a great crash, completely stunned by your quick line of attack. FInally, feeling triumphant, you walk up to the exit. But.. it's jammed. No matter what you do, the door doesn't budge. [bold type]FALSE ENDING.";
+		Say  "The Hunter, unsteady, cannot react in time as you ram into him with your antlers. He falls backwards with a great crash, completely stunned by your quick line of attack. FInally, feeling triumphant, you walk up to the exit. But.. it's jammed. No matter what you do, the door doesn't budge.";
+		End the story saying "FALSE ENDING.";
 		now The Hunter is nowhere instead;
 	Otherwise:			
 		say "You swing and miss!".
 		
 
 Every turn while the hunter has been in the location of the player for one turn:
-	if a random chance of 1 in 3 succeeds:
-		End the story saying "You run and dodge, but you're not fast enough. The hunter catches you before you can reach the exit.";
+	if a random chance of 1 in 4 succeeds:
+		End the story saying "You run and dodge, but you're not fast enough. The hunter catches you before you can reach the exit. BAD ENDING.";
 	Otherwise:			
 		Say "[one of]You hunter continues to pursue you! [or] Your can hear the hunter's footsteps right behind yours. [or] You dash between between the taxidermies, the exit slowly getting closer.[cycling]". 
 		
 
-Bravest Who Proceed is a room west of Hall of Wonder. "[first time]Without wasting another second, you dash to the left, avoiding the center of the room and manuevering through the taixdermied animals, using them as protection agaist detection. They shield you from their own fate.[line break] It's a good thing you went this way.. you can now see a hunter standing in the middle of the room, confused as to why the lights came on. [only]".
+Bravest Who Proceed is a room west of Hall of Wonder. "[first time]Without wasting another second, you dash to the left, avoiding the center of the room and maneuvering through the taxidermied animals, using them as protection against detection. They shield you from their own fate.
+
+It's a good thing you went this way.. you can now see a hunter standing in the middle of the room, confused as to why the lights came on. [only]".
 
 
 Exiting Concealed is west of Bravest who proceed. "Using the westbound route, you continue.".
 
-The Note is a thing in Exiting Concealed. "As you continue towards the exit, you find a note on the floor. Hidden from The Hunter, you quickly read it. [italic type]To those who read this: You've made it far, and you don't know me. But, I can tell you this- You were never alone. I weakened the loose bar, another placed the chair. Someone was made to survive this- and it must be you. Every animal made it possible, and now I will tell you with finality- the exit at the end of the room is locked. Check the ground. A switch is there.".
+The Note is a thing in Exiting Concealed. "As you continue towards the exit, you find a note on the floor. Hidden from The Hunter, you quickly read it. [italic type]To those who read this: You've made it far, and you don't know me. But, I can tell you this- You were never alone. I weakened the loose bar, and another placed the chair. Someone was made to survive this- and it must be you. Every animal made it possible, and now I will tell you with finality- the exit at the end of the room is locked. Check the ground. A switch is there.".
 
-Instead of going west in exiting concealed:
-    say "You search the ground and find the switch. Pressing it, part of the wall shifts in the room. Sunlight creeps into the hole- you run as fast as you can,";
-   End the story saying "[bold type]TRUE ENDING.".
+Instead of looking in Exiting Concealed:
+    say "You search the ground and find the switch. Pressing it, part of the wall shifts in the room. Sunlight creeps into the hole- you look back once more, promising to warn the rest of the animal kingdom of The Hunter. You run as fast as you can, escaping the awful place for good.";
+   End the story saying "[bold type]TRUE ENDING.". 
 	
 
-The Switch is a thing in Exiting Concealed. 
+The Switch is a thing in Exiting Concealed. " ".
 
-  
 Instead of going north when player is in Bravest Who Proceed: say "You've already committed, changing directions and risking being seen is too dangerous.".
   
 Instead of going East when player is in Bravest Who Proceed: say "The only way forward now is west.".
@@ -229,12 +240,12 @@ after printing the locale description of Plaques & Papers:
 Section 3 - Consolidated Actions
 
 clawing is an action applying to nothing. Understand "claw" as Clawing.
-Instead of Clawing:
+Instead of Clawing: 
     say "You claw at the bars of the cage, but have no luck.".  
 
 biting is an action applying to nothing. Understand "bite" as biting.
 Instead of biting:
-    say "You bite and knaw at the bars, getting nothing but a mouthful of hard metal. Ouch.".
+    say "You bite and gnaw at the bars, getting nothing but a mouthful of hard metal. Ouch.".
 
 screaming is an action applying to nothing. Understand "scream" as screaming.
 Instead of screaming:
@@ -243,13 +254,13 @@ Instead of screaming:
 Instead of sleeping:
     say "You curl up in the corner of the cage, but you can't sleep like this- not with your heart pounding; precious minutes slipping away.".
 
-Whering am I is an action applying to nothing. Understand "where am I" or "where" as whering am I.
+Whering am I is an action applying to nothing. Understand "where am I" or "where" as whering am I. 
 Instead of whering am I:	
     say "I've forgotten at this point."
 
 Whying is an action applying to nothing. Understand "why" as whying.
 Instead of whying:
-    say "A question I wish I knew the answer to. I've asked the same in cycles of cynicism- it won't do you any good." 
+    say "A question I wish I knew the answer to.".
 
 Observing is an action applying to nothing. Understand "observe" as observing.
 Instead of observing:
@@ -265,7 +276,7 @@ Instead of whoing:
 
 Barring is an action applying to nothing. Understand "look in corner" or "look in the corner" or "inspect corner" or "x corner" or "examine corner" or "look at glittering object" or "look at glittering" or "look at corner" as barring.
 Instead of barring:
-    say "Oh! A loose bar catches your eye, sticking out admist the darkness. Can you destroy it with something?".
+    say "Oh! A loose bar catches your eye, sticking out amidst the darkness. Can you destroy it with something?".  
 
 Section 4 - Instead of Descriptions 
 
