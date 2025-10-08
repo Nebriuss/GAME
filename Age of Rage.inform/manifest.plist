@@ -4,6 +4,13 @@
     <dict>
         <key>Graphics</key>
         <dict>
+            <key>4</key>
+            <string>Figures/2.png</string>
+        </dict>
+        <key>Sounds</key>
+        <dict>
+            <key>3</key>
+            <string>Sounds/INTRO.aiff</string>
         </dict>
     </dict>
 </plist>
